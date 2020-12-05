@@ -16,6 +16,10 @@ echo ""
 echo ""
 echo " Shahzada Shahriar 🔔 " | lolcat
 echo " Termux comand chainal " | lolcat
+sleep 5
+figlet -f big Termux | lolcat
+sleep 5
+figlet -f big KING SH | lolcat
 xdg-open https://youtu.be/jxDNsJpBI7k
 echo ""
 sleep 10 
