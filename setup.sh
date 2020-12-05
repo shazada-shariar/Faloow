@@ -15,6 +15,7 @@ figlet -f big SHAHRIAR !!! | lolcat
 echo ""
 echo ""
 echo " Shahzada Shahriar 🔔 " | lolcat
+echo " Termux comand chainal " | lolcat
 xdg-open https://youtu.be/jxDNsJpBI7k
 echo ""
 sleep 10 
