@@ -11,14 +11,14 @@ apt install nano -y
 apt install ruby -y
 gem install lolcat
 apt install git curl openssh openssl openssl-tool -y
-figlet -f big FINISHED !!! | lolcat
+figlet -f big SHAHRIAR !!! | lolcat
 echo ""
 echo ""
-echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
-xdg-open https://www.youtube.com/channel/UCiE0p7rXWBEncUVsLo1C5Xg
+echo " Shahzada Shahriar 🔔 " | lolcat
+xdg-open https://youtu.be/jxDNsJpBI7k
 echo ""
 sleep 10 
 echo ""
-echo " code recorded by tech-cochi "
+echo " code recorded by Shahzada Shariar "
 sleep 5
 bash instacracker.sh
